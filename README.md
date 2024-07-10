@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yankee
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning to code with python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning to code with Python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me yankeeyankee275@gmail.com
 - 😄 Pronouns: He
