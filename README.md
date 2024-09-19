@@ -1,12 +1,6 @@
-- 👋 Hi, I’m Yankee
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to code with Python
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me yankeeyankee275@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: you can practice with me ...
+## Snake (the game itself)
 
-<!---
-yankeeyanke/yankeeyanke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Snake is a game in which a snake needs to explore an environment and catch the fruit without hitting any obstacle or itself. Every time the snake catches a fruit, its size increases.
+
+- [Coding "Snake" in 4 min 30 sec](https://www.youtube.com/watch?v=xGmXxpIj6vs)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/) (not really about Snake itself, but a pattern I tried to follow on the project)
